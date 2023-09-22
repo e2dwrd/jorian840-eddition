@@ -430,7 +430,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "jorian.net",
       "specctra_dsn": "topor/jorian.dsn",
       "step": "",
       "vrml": ""
